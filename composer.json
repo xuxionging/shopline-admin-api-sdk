@@ -1,5 +1,5 @@
 {
-    "name": "verdient/shopline",
+    "name": "xuxionging/shopline-admin-api-sdk",
     "type": "library",
     "require": {
         "verdient/http-api": "^0.0"
